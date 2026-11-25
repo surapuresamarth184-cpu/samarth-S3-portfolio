@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Samarth Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Hi, I'm Samarth Surapure</h1>
+        <p>Aspiring Linux System Administrator</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I have completed Bachelor of Computer Science.</p>
+        <p>I am learning Linux Administration and AWS Cloud.</p>
+    </section>
+
+    <section>
+        <h2>My Skills</h2>
+        <p>Linux | AWS | Networking | HTML | CSS</p>
+    </section>
+
+    <footer>
+        <p>My Cloud Portfolio - 2026</p>
+    </footer>
+
+</body>
+</html>
